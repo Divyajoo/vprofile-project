@@ -12,6 +12,7 @@ pipeline {
         NEXUS_URL = "127.0.0.1:8081"
 	NEXUSPORT = "8081"
 	NEXUSIP = "127.0.0.1"
+	NEXUS-GRP-REPO = "vprofile-release"
         NEXUS_REPOSITORY = "vprofile-release"
 	NEXUS_REPO_ID    = "vprofile-release"
         NEXUS_CREDENTIAL_ID = "nexuslogin"
